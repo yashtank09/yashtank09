@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: Just see your self in miror only you are smarter standing over there
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashtank09&show_icons=true&theme=radical)
-<!--  
-<a href="">
-  <img align="center" src="" alt="yashtank09"/>
+<a href="https://github.com/yashtank09/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashtank09&repo=github-readme-stats" />
 </a>
-<a href="">
-  <img align="center" src="" alt="yashtank09"/>
+<a href="https://github.com/yashtank09/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashtank09&repo=convoychat" />
 </a>
--->
