@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Just see your self in miror only you are smarter standing over there
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkkothari2255&show_icons=true&theme=radical" alt="bkkothari2255"/>
+  <img align="center" src="" alt="yashtank09"/>
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkkothari2255&layout=compact&theme=radical" alt="bkkothari2255"/>
+  <img align="center" src="" alt="yashtank09"/>
 </a>
