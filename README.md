@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: Just see your self in miror only you are smarter standing over there
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashtank09&repo=demoicai_djangolearn)](https://github.com/yashtank09/demoicai_djangolearn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashtank09&repo=learn_java_deep)](https://github.com/yashtank09/learn_java_deep)
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtank09&show_icons=true&theme=tokyonight" alt="yashtank09"/>
