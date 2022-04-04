@@ -2,7 +2,7 @@
 
 <!--
 **yashtank09/yashtank09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Django & Spring Boot
@@ -12,4 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin / Mail me
 - 😄 Pronouns: 
 - ⚡ Fun fact: Just see your self in miror only you are smarter standing over there
--->
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkkothari2255&show_icons=true&theme=radical" alt="bkkothari2255"/>
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkkothari2255&layout=compact&theme=radical" alt="bkkothari2255"/>
+</a>
