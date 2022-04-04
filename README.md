@@ -31,7 +31,6 @@ Java, Python, C/C++
 - ⚡ Fun fact: Just see your self in miror only you are smarter standing over there
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashtank09&repo=learn_java_deep&theme=tokyonight)](https://github.com/yashtank09/learn_java_deep)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashtank09&repo=demoicai_djangolearn&theme=tokyonight)](https://github.com/yashtank09/demoicai_djangolearn)
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtank09&show_icons=true&theme=tokyonight" alt="yashtank09"/>
