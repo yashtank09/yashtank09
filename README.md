@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Java, Python, C/C++
 ```
 
-- 🌱 I’m currently learning Django & Spring Boot
+- 🌱 I’m currently learning Java & Python
 - 👯 I’m looking to collaborate Java or Python
 - 🤔 I’m looking for help with Spring Boot
 - 💬 Ask me about Java / Python / DBMS / Django / Spring Boot
