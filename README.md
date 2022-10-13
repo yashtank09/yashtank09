@@ -26,9 +26,9 @@ Java, Python, C/C++
 - 🌱 I’m currently learning Java & Python
 - 👯 I’m looking to collaborate Java or Python
 - 🤔 I’m looking for help with Spring Boot
-- 💬 Ask me about Java / Python / DBMS / Django / Spring Boot
+- 💬 Ask me about Java / Python / DBMS / Django
 - 📫 How to reach me: Linkedin / Mail me
-- ⚡ Fun fact: Just see your self in miror only you are smarter standing over there
+- ⚡ Fun fact: Just see your self in miror thik are you smarter then before every time?
 
 ## Learning Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashtank09&repo=learn_java_deep&theme=tokyonight)](https://github.com/yashtank09/learn_java_deep)
