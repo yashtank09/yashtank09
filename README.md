@@ -30,10 +30,6 @@ Java, Python, C/C++
 - 📫 How to reach me: Linkedin / Mail me
 - ⚡ Fun fact: Just see your self in miror thik are you smarter then before every time?
 
-## Learning Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashtank09&repo=learn_java_deep&theme=tokyonight)](https://github.com/yashtank09/learn_java_deep)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashtank09&repo=learn_python_deep&theme=tokyonight)](https://github.com/yashtank09/learn_python_deep)
-
 ##
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtank09&show_icons=true&theme=tokyonight" alt="yashtank09"/>
