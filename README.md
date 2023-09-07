@@ -1,39 +1,36 @@
 # Hi there, I'm Yash Tank 👋
 
-<!--
-**yashtank09/yashtank09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a love for Java, Python, and problem-solving. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tyjtank/)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/people/Yash-Tank/100006877323735/)
+[![Gmail](https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:yashtank09@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/tyjtank/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/people/Yash-Tank/100006877323735/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:yashtank09@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+## About Me
 
-## Programming Languages
-```
-Java, Python, C/C++
-```
+- 🔭 I’m currently working on honing my Java and Python skills.
+- 🌱 I’m eager to collaborate on Java or Python projects.
+- 👯 I’m looking to connect with fellow developers and tech enthusiasts.
+- 🤔 I’m seeking help with mastering Spring Boot.
+- 💬 Ask me about Java, Python, DBMS, Django, or anything related to programming.
+- ⚡ Fun fact: Every time you look in the mirror, you're witnessing yourself getting smarter!
 
-- 🌱 I’m currently learning Java & Python
-- 👯 I’m looking to collaborate Java or Python
-- 🤔 I’m looking for help with Spring Boot
-- 💬 Ask me about Java / Python / DBMS / Django
-- 📫 How to reach me: Linkedin / Mail me
-- ⚡ Fun fact: Just see your self in miror thik are you smarter then before every time?
+## Skills
 
-##
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtank09&show_icons=true&theme=tokyonight" alt="yashtank09"/>
-</a> <br>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtank09&layout=compact&theme=tokyonight" alt="yashtank09"/>
-</a>
+- **Languages:** Java, Python, C/C++
+- **Web Development:** HTML, CSS, JavaScript, Django
+- **Databases:** MySQL, PostgreSQL
+- **Frameworks:** Spring Boot
+- **Tools:** Git, VS Code, IntelliJ IDEA
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashtank09&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtank09&layout=compact&theme=gruvbox" alt="Top Languages"/>
+</div>
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tyjtank/), drop me an [email](mailto:yashtank09@gmail.com), or say hi on [Facebook](https://www.facebook.com/people/Yash-Tank/100006877323735/). Let's code, collaborate, and learn together! 😄🚀
