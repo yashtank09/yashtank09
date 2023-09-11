@@ -26,11 +26,11 @@ I'm a passionate software developer with a love for Java, Python, and problem-so
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashtank09&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashtank09&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtank09&layout=compact&theme=gruvbox" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtank09&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tyjtank/), drop me an [email](mailto:yashtank09@gmail.com), or say hi on [Facebook](https://www.facebook.com/people/Yash-Tank/100006877323735/). Let's code, collaborate, and learn together! 😄🚀
