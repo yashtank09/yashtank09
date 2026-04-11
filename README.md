@@ -1,36 +1,69 @@
-# Hi there, I'm Yash Tank 👋
+# Hi, I'm Yash Tank 👋
 
-I'm a passionate software developer with a love for Java, Python, and problem-solving. Welcome to my GitHub profile!
+**Software Engineer | Web Developer | Builder of modern, user-focused digital solutions**
 
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tyjtank/)
-[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/people/Yash-Tank/100006877323735/)
-[![Gmail](https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:yashtank09@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+I build scalable, secure, and robust web applications with a strong focus on clean architecture, practical problem-solving, and great user experience.
 
-## About Me
+---
 
-- 🔭 I’m currently working on honing my Java and Python skills.
-- 🌱 I’m eager to collaborate on Java or Python projects.
-- 👯 I’m looking to connect with fellow developers and tech enthusiasts.
-- 🤔 I’m seeking help with mastering Spring Boot.
-- 💬 Ask me about Java, Python, DBMS, Django, or anything related to programming.
-- ⚡ Fun fact: Every time you look in the mirror, you're witnessing yourself getting smarter!
+## 🚀 About Me
 
-## Skills
+- 💼 Software Engineer passionate about building modern web solutions
+- 🧩 Interested in full-stack development and enterprise application design
+- ⚙️ Focused on scalable backend systems and intuitive frontend experiences
+- 🤝 Enjoy collaborating on meaningful products and developer-friendly systems
+- 📚 Always learning and improving across architecture, APIs, and product thinking
 
-- **Languages:** Java, Python, C/C++
-- **Web Development:** HTML, CSS, JavaScript, Django
-- **Databases:** MySQL, PostgreSQL
-- **Frameworks:** Spring Boot
-- **Tools:** Git, VS Code, IntelliJ IDEA
+---
 
-## GitHub Stats
+## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashtank09&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
+### Languages
+- Java
+- JavaScript
+- SQL
+- HTML5
+- CSS3
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtank09&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
+### Frameworks & Libraries
+- Spring Boot
+- Angular
+- Bootstrap
+- jQuery
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tyjtank/), drop me an [email](mailto:yashtank09@gmail.com), or say hi on [Facebook](https://www.facebook.com/people/Yash-Tank/100006877323735/). Let's code, collaborate, and learn together! 😄🚀
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 🌱 What I Work On
+
+- Building robust web applications and APIs
+- Designing responsive and user-friendly interfaces
+- Developing secure and maintainable backend systems
+- Turning ideas into practical software solutions
+
+---
+
+## 📌 What I Value
+
+- Clean, reliable code
+- Thoughtful product design
+- Strong collaboration
+- Continuous learning
+- Building software that solves real problems
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio: [yashtank.co.in](https://yashtank.co.in)
+- GitHub: [github.com/yashtank09](https://github.com/yashtank09)
+
+---
+
+## ✨ Profile Note
+
+Thanks for visiting my profile. I'm always excited to explore new ideas, collaborate on interesting projects, and keep growing as an engineer.
