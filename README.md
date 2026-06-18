@@ -50,12 +50,12 @@ I am expanding my enterprise stack by integrating Large Language Models (LLMs) a
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashtank09&show_icons=true&theme=radial&hide_border=true" alt="Yash's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtank09&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashtank09&show_icons=true&theme=radial&hide_border=true" alt="Yash's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashtank09&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashtank09&theme=radial&hide_border=true" alt="GitHub Streak" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashtank09&theme=radial&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
